@@ -28,7 +28,7 @@ Alguns canais podem ter regras específicas para postagem de mensagens. Nesses c
 
 ### **Canais Especiais**
 
-Como na Centauro nosso time é de todes, temos dois channels no Slack voltados para diversidade. Voltado para quem se identifica mulheres, existe o channel #mulheresemtech, e para pessoas que se identificam como negros ou pardos, o channel #diversidade-black-sbf. Para participar do #diversidade-black-sbf, basta buscar a # no campo de pesquisa, e solicitar o acesso no canal. Já para participar do #mulheresemtech, fale com Maria Julia Lobo no Slack. Os canais servem para acolher a todes! <3
+Como na Centauro nosso time é de todes, temos alguns channels no Slack voltados para diversidade. Voltado para quem se identifica mulher, existe o channel #mulheresemtech, e para pessoas que se identificam como negros ou pardos, o channel #diversidade-black-sbf. Para participar do #diversidade-black-sbf, basta buscar a # no campo de pesquisa, e solicitar o acesso no canal. Já para participar do #mulheresemtech, fale com Maria Julia Lobo no Slack. Os canais servem para acolher a todes! <3
 
 Além dos canais de pautas de diversidade, para os amantes de animais, o canal #x-fotosdebichosfofos é perfeito!
 
